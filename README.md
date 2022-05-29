@@ -1,4 +1,4 @@
-# Google Style Guides
+# Google Guidelines
 <br/> https://google.github.io/styleguide/
 <br/> https://google.github.io/styleguide/htmlcssguide.html
 <br/> https://google.github.io/styleguide/jsguide.html
